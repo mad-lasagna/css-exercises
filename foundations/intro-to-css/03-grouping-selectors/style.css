@@ -1,0 +1,14 @@
+.ClickMe-Right,
+.ClickMe-Left {
+    font-size: 28px;
+    font-family: Arial,'Times New Roman', sans-serif;
+}
+
+.ClickMe-Left {
+    color: white;
+    background-color: black;
+}
+
+.ClickMe-Right {
+    background-color: yellow;
+}
